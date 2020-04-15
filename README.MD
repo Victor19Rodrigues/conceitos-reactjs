@@ -86,7 +86,7 @@ In this project, you can create or delete a repository.
 
 ## 🏁 Run this project:
 
-To run, first of all you nedd to clone the service in [Backend Repo](https://github.com/Victor19Rodrigues/conceitos-reactjs) and run the project. After that,
+To run, first of all you need to clone the service in [Backend Repo](https://github.com/Victor19Rodrigues/conceitos-reactjs) and run the project. After that,
 into your folder frontend:
 
 ```bash
