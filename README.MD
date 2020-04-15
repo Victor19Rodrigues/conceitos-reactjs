@@ -1,6 +1,5 @@
 <div align="center" style="background-color:#0B0A0D;">
-  <img alt="Rocket" height="250"
-    src="https://hotmart.s3.amazonaws.com/product_pictures/6bd576fb-5d9f-4c15-b59d-482ff6a26cbe/GO1.png"
+  <img alt="Rocket" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png"
   />
 </div>
 
